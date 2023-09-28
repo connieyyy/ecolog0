@@ -61,7 +61,7 @@ video {
 /* exploration page*/
 
 .exploration {
-    background-image: url('images/explore.jpg');
+    background-image: url('images/hiking.jpg');
     background-size: cover;
     height: 100vh;
 }
